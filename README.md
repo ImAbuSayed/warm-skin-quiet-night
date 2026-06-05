@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/warm-skin-quiet-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Warm Skin Quiet Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-skin-quiet-night/) |
+| **Get License** | [Get License For Warm Skin Quiet Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/warm-skin-quiet-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling softly on the cabin floor
+> I have never needed any moment more
+> Pulling close to trace the fire in your eyes
+> Losing every worry to the open skies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
